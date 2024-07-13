@@ -1,4 +1,4 @@
-YouTube Transcript to Detailed Notes Converter
+YouTube Transcript to Detailed Notes Converter.
 This Streamlit application utilizes Google's Gemini Pro model to convert YouTube video transcripts into detailed notes. 
 It leverages the YouTube Transcript API to fetch transcript data and generates concise summaries using advanced natural language processing techniques.
 
